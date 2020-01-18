@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\vc\ch05\switch1\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\vc\ch05\switch1\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\vc\ch05\switch1\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  switch1.cpp
+c:\vc\ch05\switch1\switch1.cpp(38): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 '^'
+  switch1.vcxproj -> C:\VC\ch05\switch1\Debug\switch1.exe
+  switch1.vcxproj -> C:\VC\ch05\switch1\Debug\switch1.pdb (Partial PDB)

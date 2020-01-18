@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  printf5.cpp
+c:\vc2017\ch04\printf5\printf5.cpp(10): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  printf5.vcxproj -> C:\VC2017\ch04\printf5\Debug\printf5.exe
+  printf5.vcxproj -> C:\VC2017\ch04\printf5\Debug\printf5.pdb (Partial PDB)

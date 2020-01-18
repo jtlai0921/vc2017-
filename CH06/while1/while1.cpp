@@ -1,0 +1,37 @@
+// while1.cpp : 定義主控台應用程式的進入點。
+//
+
+#include "stdafx.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+	int n, sum = 0, i = 0;
+	printf(" =求 1 到 100 可以被n整除的整數=\n\n");
+	printf(" 請輸入 1 到 100 的整數 n：");
+	scanf_s("%d", &n);
+	if (n >= 1 && n <= 100)
+	{
+		while (sum + n <= 100)
+		{
+			sum += n;
+			printf("%3d,", sum);
+			i++;
+			if (i % 5 == 0)
+			{
+				printf("\n");
+			}
+		}
+		printf("\n\n");
+		printf(" 由 1 到 100 有 %d 個整數可以被 %d 整除 ! \n", i, n);
+	}
+	else
+	{
+		printf("輸入的資料超出範圍!@_@\n");
+	}
+
+	system("PAUSE");
+	return 0;
+}
+

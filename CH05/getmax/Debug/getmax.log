@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  getmax.cpp
+c:\vc\ch05\getmax\getmax.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  getmax.vcxproj -> C:\VC\ch05\getmax\Debug\getmax.exe
+  getmax.vcxproj -> C:\VC\ch05\getmax\Debug\getmax.pdb (Partial PDB)

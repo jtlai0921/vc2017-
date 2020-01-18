@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  typeconvert.cpp
+c:\vc2017\ch03\typeconvert\typeconvert.cpp(13): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\vc2017\ch03\typeconvert\typeconvert.cpp(22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\vc2017\ch03\typeconvert\typeconvert.cpp(24): warning C4477: 'printf' : 格式字串 '%f' 需要 'double' 類型的引數，但 variadic 引數 1 的類型為 'int'
+  typeconvert.vcxproj -> C:\VC2017\ch03\typeconvert\Debug\typeconvert.exe
+  typeconvert.vcxproj -> C:\VC2017\ch03\typeconvert\Debug\typeconvert.pdb (Partial PDB)
